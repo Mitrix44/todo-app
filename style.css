@@ -1,0 +1,24 @@
+body{
+  background-color:#303030;
+  width:100%;
+  margin:0px;
+  padding:0px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+#home{
+  width:75%;
+  align-items:start;
+  background-color:#fefefe;
+  border-radius:10px;
+  padding-bottom:25px;
+  margin-top:150px;
+}
+#h1{
+  width:100%;
+  text-align:center;
+}
+#list{
+  padding:20px;
+}
